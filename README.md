@@ -4,5 +4,5 @@
 
 loadstring:
 ```lua
-...
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MMoonDzn/PanderluaCB/main/pander.lua"))()
 ```
